@@ -1,0 +1,50 @@
+** NOT FIXED **
+Format : (cmd parent folder/cmd name) = error message
+
+======================================================================================================
+
+(dev/code.js) = spam after initialization/trigger
+(dev/eval.js) = Output length still needs to be fixed
+
+======================================================================================================
+** STATUS **
+Format : (cmd parent folder/cmd name) = The status of the command [number]//the number represent the priority
+Priority : The higher the number the more important it is
+Progress : 70% (Seventy Percent)
+
+======================================================================================================
+(antispam.js) = not linked                          2
+
+
+
+(dev/args-info.js) = Finished, optimized            1
+(dev/reload.js) = Finished, optimized               1
+(dev/shutdown.js) = Finished, optimized             1
+
+
+(dev/code.js) = buggy                               2
+
+
+
+(modertion/ban.js) = Finished, optimized            1
+(modertion/kick.js) = Finished, optimized           1
+(modertion/mute.js) = Finished, optimized           1
+(modertion/muterole.js) = Finished, optimized       1
+(modertion/unmute.js) = Finished, optimized         1
+(moderation/tempmute.js) = Finished, optimized      1
+(modertion/purge.js) = Finished, optimized          1
+(moderation/warnings.js) = Finished, optimized      1
+(moderation/warn.js) = Finished, optimized          1
+
+
+(utility/help) = Finished, optimized                1
+
+(utility/botinfo.js) = Finished, not optimized      3
+
+======================================================================================================
+**Notes**
+Format : (Your username) = Notes
+
+======================================================================================================
+
+Xictaw = I will be the one that worked on all of the code

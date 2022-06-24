@@ -1,0 +1,19 @@
+// You can import packages up here because to make the code run you don't need to import anything.
+
+module.exports = {
+  infos: {
+    name: '', //This must be written or the command will not work
+    aliases: [],
+    usage: '',
+	  description: '',
+  },
+
+  //guildOnly: true, //Write this if the command can only be called in a guild.
+  // permissions: 'MANAGE_MESSAGES', //If there are more than one permission put the permissions in an array.
+
+  //args: (message) => {return [true];}, //return true if there MUST be an argument in the command (You can customize the reply by writing on the second place at the array).
+
+	execute: async (client, message, args) => {
+    //Put the command script here
+  }
+}
