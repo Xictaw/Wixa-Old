@@ -1,5 +1,6 @@
 # Wixa
 Wixa is a Discord Bot that are made for Effectiveness and Speed
+*This bot is already abandoned because there is a newer version is work*
 
 I have been developing it for 3 years. Even though the bot has been in development that long the bot can actually be done in like 3 days, but I have been busy with my school so I abandoned it in the past and now I will be developing this bot again until it's done.
 
